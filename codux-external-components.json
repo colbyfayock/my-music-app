@@ -1,0 +1,37 @@
+[  
+    {
+        "name": "React Icons",
+        "components": [
+            {
+                "filePath": "react-icons/fa",
+                "exportName": "FaPlay",
+                "name": "Play"
+            },
+            {
+                "filePath": "react-icons/fa",
+                "exportName": "FaPause",
+                "name": "Pause"
+            },
+            {
+                "filePath": "react-icons/fa",
+                "exportName": "FaStepBackward",
+                "name": "Previous"
+            },
+            {
+                "filePath": "react-icons/fa",
+                "exportName": "FaStepForward",
+                "name": "Next"
+            },
+            {
+                "filePath": "react-icons/fa",
+                "exportName": "FaMusic",
+                "name": "Music"
+            },
+            {
+                "filePath": "react-icons/fa",
+                "exportName": "FaHeadphones",
+                "name": "Headphones"
+            }
+        ]
+    }
+]  
