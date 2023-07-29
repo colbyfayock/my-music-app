@@ -110,7 +110,10 @@ function App() {
                     onPlay={handleOnPlay}
                     isPlaying={!!playing}
                 />
-                {playing ? <NowPlaying artist={''} /> : null}
+
+                {playing ? (
+                    <NowPlaying artist={playing.artist} title={playing.title} />
+                ) : null}
             </div>
             <Grid>
                 {albums.map((album, i) => {
